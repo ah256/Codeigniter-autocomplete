@@ -1,0 +1,7 @@
+name: Autocomplete
+version: 1.0.0
+compatibility: 2.1.0
+#dependencies:
+# spark-1: 1.0.0
+# spark-2: 1.0.0
+tags: ["Autocomplete", "IDE"]

@@ -8,7 +8,7 @@
  * @property CI_Benchmark        $benchmark
  * @property CI_Calendar         $calendar
  * @property CI_Config           $config
- * @property CI_Controller       $controller3
+ * @property CI_Controller       $controller
  * @property CI_Email            $email
  * @property CI_Encrypt          $encrypt
  * @property CI_Exceptions       $exceptions

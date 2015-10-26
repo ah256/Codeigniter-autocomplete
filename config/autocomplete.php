@@ -10,7 +10,6 @@
  * @property    CI_Lang                  $lang
  * @property    CI_Loader                $loader
  * @property    CI_Log                   $log
- * @property    CI_Model                 $model
  * @property    CI_Output                $output
  * @property    CI_Router                $router
  * @property    CI_Security              $security

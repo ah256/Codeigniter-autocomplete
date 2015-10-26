@@ -108,7 +108,7 @@ class CI_DB extends CI_DB_query_builder{};
  * @property CI_Hooks                 $hooks
  * @property CI_Input                 $input
  * @property CI_Lang                  $lang
- * @property CI_Loader                $loader
+ * @property CI_Loader                $load
  * @property CI_Log                   $log
  * @property CI_Output                $output
  * @property CI_Router                $router

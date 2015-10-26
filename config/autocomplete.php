@@ -76,7 +76,6 @@
  * @property CI_Form_validation       $form_validation
  * @property CI_FTP                   $ftp
  * @property CI_Image_lib             $image_lib
- * @property CI_Javascript            $javascript
  * @property CI_Migration             $migration
  * @property CI_Pagination            $pagination
  * @property CI_Parser                $parser
@@ -175,7 +174,6 @@ class CI_DB extends CI_DB_query_builder{};
  * @property CI_Form_validation       $form_validation
  * @property CI_FTP                   $ftp
  * @property CI_Image_lib             $image_lib
- * @property CI_Javascript            $javascript
  * @property CI_Migration             $migration
  * @property CI_Pagination            $pagination
  * @property CI_Parser                $parser

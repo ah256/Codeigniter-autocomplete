@@ -97,6 +97,9 @@
 class CI_Controller{};
 class MY_Controller extends CI_Controller{};
 
+/* when quey builder is on, CI_DB extended from CI_DB_query_builder */
+class CI_DB extends CI_DB_query_builder{};	
+
 
 /**
  * @property CI_Benchmark             $benchmark

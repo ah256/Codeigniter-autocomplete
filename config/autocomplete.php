@@ -96,8 +96,27 @@
 class CI_Controller{};
 class MY_Controller extends CI_Controller{};
 
+// Comment out and edit dbdriver class if QueryBuilder is on.
+class CI_DB_mysqli_driver      extends CI_DB{};
+// class CI_DB_cubrid_driver      extends CI_DB{};
+// class CI_DB_ibase_driver       extends CI_DB{};
+// class CI_DB_mssql_driver       extends CI_DB{};
+// class CI_DB_mysql_driver       extends CI_DB{};
+// class CI_DB_oci8_driver        extends CI_DB{};
+// class CI_DB_odbc_driver        extends CI_DB{};
+// class CI_DB_pdo_driver         extends CI_DB{};
+// class CI_DB_pdo_4d_driver      extends CI_DB{};
+// class CI_DB_pdo_dblib_driver   extends CI_DB{};
+// class CI_DB_pdo_ibm_driver     extends CI_DB{};
+// class CI_DB_pdo_mysql_driver   extends CI_DB{};
+// class CI_DB_pdo_odbc_driver    extends CI_DB{};
+// class CI_DB_pdo_sqlite_driver  extends CI_DB{};
+// class CI_DB_postgre_driver     extends CI_DB{};
+// class CI_DB_sqlite_driver      extends CI_DB{};
+// class CI_DB_sqlite3_driver     extends CI_DB{};
+// class CI_DB_sqlsrv_driver      extends CI_DB{};
 /* when quey builder is on, CI_DB extended from CI_DB_query_builder */
-class CI_DB extends CI_DB_query_builder{};	
+class CI_DB extends CI_DB_query_builder{};
 
 
 /**

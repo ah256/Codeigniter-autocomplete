@@ -211,6 +211,7 @@ class CI_DB extends CI_DB_query_builder{};
  * @property Your_lib                 $your_lib
  */
 class CI_Model{};
+class MY_Model extends CI_Model{};
 
 
 /**

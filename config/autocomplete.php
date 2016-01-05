@@ -226,5 +226,3 @@ class CI_Cache{};
 
 /* End of file autocomplete.php */
 /* Location: ./application/config/autocomplete.php */
-
-
